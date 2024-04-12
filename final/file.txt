@@ -1,0 +1,4 @@
+     Name  Age  CGPA      Location  Gender
+3  Sophia   22   3.9  SanFrancisco  Female
+7     Ava   26   3.9        Boston  Female
+1    Emma   23   3.8    LosAngeles  Female
